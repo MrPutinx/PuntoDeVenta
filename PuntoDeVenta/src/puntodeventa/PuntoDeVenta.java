@@ -26,7 +26,7 @@ public class PuntoDeVenta {
             JOptionPane.showMessageDialog(null,"Aun estas joven tienes: "+edad);
         }
         System.out.println("Rey deja de ver el partido");
-        JOptionPane.showMessageDialog(null,"Ya lo agregué yo");//Rey
+        JOptionPane.showMessageDialog(null,"Ya lo agregué yo jajaja");//Rey
         
     }
     public String getNombre(){
