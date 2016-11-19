@@ -12,6 +12,7 @@ public class PuntoDeVenta {
     String halo;
     public static void main(String[] args) {
         System.out.println("Lince se la come");
+        System.out.println("Y el Kevin se la da");
         int añoActual, añoNacimiento, edad;
         JOptionPane.showMessageDialog(null,"Vamos a calcular tu edad");
         añoActual=Integer.parseInt(JOptionPane.showInputDialog("Ingresa el año actual: "));
