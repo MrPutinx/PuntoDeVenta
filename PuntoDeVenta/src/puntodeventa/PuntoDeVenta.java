@@ -6,6 +6,7 @@ public class PuntoDeVenta {
     String nombre;
         int valor;
         int pene;
+    String apellido;
     
     public static void main(String[] args) {
         
@@ -18,6 +19,9 @@ public class PuntoDeVenta {
     }
     public int getPene(){
         return pene;
+    }
+    public String getApellido(){
+        return apellido;
     }
     
 }
