@@ -8,8 +8,9 @@ public class PuntoDeVenta {
     String nombre;
         int valor;
         int pene;
-    String apellido;
-    String halo;
+        String apellido;
+        String halo;
+        int nepe;
     public static void main(String[] args) {
         System.out.println("Lince se la come");
         System.out.println("Y el Kevin se la da");
