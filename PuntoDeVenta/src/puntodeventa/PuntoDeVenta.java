@@ -3,7 +3,7 @@ package puntodeventa;
 
 import javax.swing.JOptionPane;
 
-
+//Oie cy ke rikolino :v
 public class PuntoDeVenta {
     String nombre;
         int valor;
