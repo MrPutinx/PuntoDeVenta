@@ -5,6 +5,7 @@ package puntodeventa;
 public class PuntoDeVenta {
     String nombre;
         int valor;
+        int pene;
     
     public static void main(String[] args) {
         
@@ -14,6 +15,9 @@ public class PuntoDeVenta {
     }
     public int getValor(){
         return valor;
+    }
+    public int getPene(){
+        return pene;
     }
     
 }
