@@ -12,5 +12,8 @@ public class PuntoDeVenta {
     public String getNombre(){
         return nombre;
     }
+    public int getValor(){
+        return valor;
+    }
     
 }
