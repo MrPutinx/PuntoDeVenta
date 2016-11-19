@@ -9,6 +9,7 @@ public class PuntoDeVenta {
     String apellido;
     String halo;
     public static void main(String[] args) {
+        System.out.println("Lince se la come");
         
     }
     public String getNombre(){
@@ -26,5 +27,6 @@ public class PuntoDeVenta {
     public String getHalo(){
         return halo; 
     }
+   
     
 }
